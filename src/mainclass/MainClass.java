@@ -9,9 +9,9 @@ public class MainClass {
 
         System.out.println("Welcome to CodingBat.com/java !!!");
 
-        //Warmup01.callWarmup01();
+        Warmup01.callWarmup01();
 
-        //String01.callString01();
+        String01.callString01();
 
         Logic01.callLogic01();
     }
